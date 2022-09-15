@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there I'm Gedvydas Jucius (https://emoji.discadia.com/emojis/b2ec14ce-6cf3-4600-aea6-d00b2158cbca.gif)
 
 <!--
 **Ged-J/Ged-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
