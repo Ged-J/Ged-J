@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, my name is Gedvydas Jucius</h1>
-<h3 align="center">A student currently in South East Technological University of Ireland</h3>
+<h3 align="center">A sGraduate of Applied Computing (Games Development) South East Technological University of Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ged-j&label=Profile%20views&color=0e75b6&style=flat" alt="ged-j" /> </p>
 
